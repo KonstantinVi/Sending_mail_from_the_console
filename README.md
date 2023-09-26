@@ -1,3 +1,5 @@
+![Send an e-mail](img/logo_001.png)
+
 ## Отправка почты из консоли
 
 ### Сделано для работы с smtp [`mail.ru`](https://mail.ru/)
